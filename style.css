@@ -1,0 +1,27 @@
+h1{
+    color: blue;
+    padding: 50px;
+}
+
+.rotate:active{
+    transform: rotate(180deg);
+
+}
+.skew:active{
+    transform: skew(45deg);
+}
+.scale:active{
+    transform: scale(1.2);
+}
+.translate:active{
+    translate: 160px;
+}
+.rotateX:active{
+    transform: rotateX(60deg);
+}
+.rotateY:active{
+    transform: rotateY(50deg);
+}
+.rotateZ:active{
+    transform: rotateZ(40deg);
+}
